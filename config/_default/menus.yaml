@@ -7,21 +7,25 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 20
+- identifier: 211fb6ec-f269-4e1d-a6fd-0ffa12227689
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
 - identifier: 48098d0a-e0a4-4c11-bfe0-31b7aff16672
   name: Readings
   pageRef: /pages/readings
-  weight: 30
+  weight: 40
 - identifier: cdc992c6-0573-497d-8ab0-f07da01975f1
   name: Assignments
   pageRef: /pages/assignments
-  weight: 40
+  weight: 50
 - identifier: 712067eb-91d7-44e9-85ea-7ba2af249fae
   name: Commentaries
   pageRef: /pages/commentaries
   parent: cdc992c6-0573-497d-8ab0-f07da01975f1
   weight: 10
 - identifier: 01e89a74-af4a-45f6-905b-a718804e7079
-  name: Research Paper 1
+  name: Research Paper 1 - Ritual Ethnography
   pageRef: /pages/research-paper-1
   parent: cdc992c6-0573-497d-8ab0-f07da01975f1
   weight: 20
