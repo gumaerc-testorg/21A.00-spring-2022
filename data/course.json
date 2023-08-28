@@ -28,7 +28,7 @@
     "website": "introduction-to-anthropology"
   },
   "course_title": "Introduction to Anthropology",
-  "course_description": "Through the comparative study of different cultures, anthropology explores fundamental questions about what it means to be human. It seeks to understand how culture shapes societies, from the smallest island in the South Pacific to the largest Asian metropolis, and affects the way institutions work, from scientific laboratories to Christian mega-churches. This course will provide a framework for analyzing diverse facets of human experience, such as gender, ethnicity, language, politics, economics, and art.",
+  "course_description": "Through the comparative study of different cultures, anthropology explores fundamental questions about what it means to be human. It seeks to understand how culture shapes societies, from the smallest island in the South Pacific to the largest Asian metropolis, and affects the way institutions work, from scientific laboratories to Christian megachurches. This course will provide a framework for analyzing diverse facets of human experience, such as gender, ethnicity, language, politics, economics, and art.",
   "department_numbers": [
     "21A"
   ],
@@ -40,7 +40,9 @@
   },
   "learning_resource_types": [
     "Activity Assignments",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Written Assignments with Examples",
+    "Readings"
   ],
   "site_uid": "9712ca68-52ec-461b-ad70-5ef74fe5e272",
   "site_short_id": "21A.00-spring-2022"

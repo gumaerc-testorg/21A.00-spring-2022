@@ -15,7 +15,7 @@ There are no prerequisites for this course.
 
 ### Course Description
 
-Through the comparative study of different cultures, anthropology explores fundamental questions about what it means to be human. It seeks to understand how culture both shapes societies, from the smallest island in the South Pacific to the largest Asian metropolis, and affects the way institutions work, from scientific laboratories to Christian mega-churches. This course will provide a framework for analyzing diverse facets of human experience such as gender, ethnicity, language, politics, economics, and art.
+Through the comparative study of different cultures, anthropology explores fundamental questions about what it means to be human. It seeks to understand how culture both shapes societies, from the smallest island in the South Pacific to the largest Asian metropolis, and affects the way institutions work, from scientific laboratories to Christian megachurches. This course will provide a framework for analyzing diverse facets of human experience such as gender, ethnicity, language, politics, economics, and art.
 
 ### Learning Objectives
 
@@ -30,7 +30,7 @@ Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Hum
 
 ### Reading Assignments
 
-Students are expected to read approximately 40-50 pages a week as the basis for class discussion. Length of readings is indicated for each session/week. For more detail, see the {{% resource_link "48098d0a-e0a4-4c11-bfe0-31b7aff16672" "Readings" %}} section.
+Students are expected to read approximately 40–50 pages a week as the basis for class discussion. Length of readings is indicated for each session/week. For more detail, see the {{% resource_link "48098d0a-e0a4-4c11-bfe0-31b7aff16672" "Readings" %}} section.
 
 ### Writing Assignments
 
@@ -55,7 +55,7 @@ Attendance and participation
 {{< tdclose >}}{{< tdopen >}}
 20%
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Presentations (2 x 4)
+Presentations (2 x 4% each)
 {{< tdclose >}}{{< tdopen >}}
 8%
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

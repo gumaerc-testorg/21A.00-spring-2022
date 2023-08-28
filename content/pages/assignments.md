@@ -15,7 +15,7 @@ See the {{% resource_link "712067eb-91d7-44e9-85ea-7ba2af249fae" "Commentaries" 
 
 The two 4-page research papers this semester focus on the topic of ritual. More detailed instructions will be provided several weeks in advance of the due date.
 
-- {{% resource_link "01e89a74-af4a-45f6-905b-a718804e7079" "Paper 1" %}}: Use ethnographic methods do document and analyze a ritual
-- {{% resource_link "0eae2b99-fa2c-4337-b0ed-ea835cead243" "Paper 2" %}}: Document and describe your ritual design practice
+- {{% resource_link "01e89a74-af4a-45f6-905b-a718804e7079" "Research Paper 1 - Ritual Ethnography" %}}: Use ethnographic methods to document and analyze a ritual
+- {{% resource_link "0eae2b99-fa2c-4337-b0ed-ea835cead243" "Research Paper 2 - Ritual Design" %}}: Document and describe your ritual design practice
 
 You can work with a partner or partners on the research projects; one additional page will be expected for each additional collaborator.
