@@ -22,7 +22,7 @@ Create shared rituals to enhance this class. An academic class is a ritual form 
 Workshop I (Session 15): Open-ended ideation
 
 - Working in 4–5 randomly assigned groups, develop lo-fi classroom ritual wireframe for presentation at end of class.
-- Use “{{% resource_link "d205d6b2-6ecc-4ca4-92a2-12b0c8ae4bfd" "Ritual Design Toolkit" %}}” (RDT) Section 1 (“Scope”) and Appendix A.
+- Use “[Ritual Design Toolkit](https://spiral.imperial.ac.uk/handle/10044/1/83960)” (RDT) Section 1 (“Scope”) and Appendix A.
 - Decide on appropriate components for future phases.
 
 Workshop II (Session 19): Small group work on specific design components
@@ -46,27 +46,27 @@ Students may submit a 4-page paper individually reflecting on their group’s wo
 
 **Bibliography**
 
-Murphy, Keith M. “{{% resource_link "c368bc2a-3974-433c-99fd-26e896ca7a1f" "Design and Anthropology" %}}.” *Annual Review of Anthropology* 45 (2016): 433–49.
+Murphy, Keith M. “[Design and Anthropology](https://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102215-100224).” *Annual Review of Anthropology* 45 (2016): 433–49.
 
-Van Willigen, John. *Applied Anthropology: An Introduction*. 3rd ed. Praeger, 2002. ISBN: ‎9780897898331. \[Preview with {{% resource_link "275a8727-ac6b-4dd0-a798-e13b6190576f" "Google Books" %}}\]
+Van Willigen, John. *Applied Anthropology: An Introduction*. 3rd ed. Praeger, 2002. ISBN: ‎9780897898331. \[Preview with [Google Books](https://www.google.com/books/edition/Applied_Anthropology/9OGJXkEV7LgC?hl=en&gbpv=1)\]
 
 **Examples of Ritual Design Practices**
 
-Stanford’s {{% resource_link "2bb636ed-5078-4056-9a37-c233e0321591" "Ritual Design Lab" %}}
+Stanford’s [Ritual Design Lab](https://www.ritualdesignlab.org/)
 
-Harvard’s {{% resource_link "e4d983b3-4020-4e00-9bbb-59f1afb27337" "Vision Lab" %}}
+Harvard’s [Vision Lab](https://cmp.gsas.harvard.edu/2019/04/18/vision-lab-by-kythe-heller/)
 
-{{% resource_link "7ec66250-bf38-4bbb-9685-5c5e64cc4132" "Sacred Design Lab" %}}
+[Sacred Design Lab](https://sacred.design/)
 
-{{% resource_link "84a713b7-db62-42df-a212-055237f15196" "Ezra Bookman" %}}
+[Ezra Bookman](https://www.ezrabookman.com/)
 
-{{% resource_link "d61b5e09-74ac-4652-9f1d-e16413b73656" "Jeltje Gordon-Lennox" %}}
+[Jeltje Gordon-Lennox](https://gordon-lennox.ch/en/rituals)
 
-{{% resource_link "71b4acd3-6b59-4d8c-8609-42ce33883f33" "Tiu de Haan" %}}
+[Tiu de Haan](https://www.tiudehaan.com/)
 
-{{% resource_link "ae460b6c-c0e6-48fd-b810-89ec78cd38d0" "Kythe Heller" %}}
+[Kythe Heller](https://cmp.gsas.harvard.edu/directory/kythe-heller/)
 
-{{% resource_link "711cce0f-3775-4cdd-b668-c4bb8f5f1df1" "Casper ter Kuile" %}}
+[Casper ter Kuile](https://www.caspertk.com/)
 
 *Student Examples*
 

@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21a-00-introduction-to-anthropology-spring-2022/mit21a_00s22_sess21paper_ex1.pdf
+file_size: 57177
 file_type: application/pdf
 image_metadata:
   caption: ''
