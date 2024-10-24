@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21a-00-introduction-to-anthropology-spring-2022/mit21a_00s22_paper1_ex4.pdf
+file: /ol-ocw-studio-app/courses/21a-00-introduction-to-anthropology-spring-2022/mit21a_00s22_paper1_ex4.pdf
 file_size: 137671
 file_type: application/pdf
 image_metadata:
