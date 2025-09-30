@@ -14,7 +14,7 @@ Below, Prof. Graham Jones describes various aspects of how he taught *21A.00 Int
 
 **Graham Jones:** Take that with a grain of salt. These days, most students do their reading on devices (they even read PDFs of articles on their phones) and take notes on tablets. So it’s really not feasible to ban devices. However, post-pandemic I have increasingly reduced my own reliance on devices in teaching. When I started teaching 21A.00 in 2012, I had a multimedia powerpoint and carefully scripted lectures for every class. Now, I mostly come to class with the reading and a piece of chalk. I try to let things flow organically, in traditional Socratic fashion. Of course, it’s hard for students to focus on seminar discussion for an hour and a half twice a week, but I feel it’s important for me as a human being to demonstrate the possibility of sustained interpersonal engagement without multimedia stimulation.
 
-**OCW:** Session 16 took the form of a field trip to Harvard University’s [Peabody Museum](https://peabody.harvard.edu/). What did that trip entail?
+**OCW:** Session 16 took the form of a field trip to Harvard University’s {{% resource_link "6128fdd5-fa7c-4744-8188-d57e7d1158a5" "Peabody Museum" %}}. What did that trip entail?
 
 **Graham Jones:** Because the trip to Harvard on the subway takes about 30 minutes both ways, we usually only have about half an hour in the museum. I give a fast-paced guided tour myself, trying to highlight some of the connections between the Museum and the content of the class (which, changes year to year). Mostly I spend a lot of time in the Native American collections, focusing on the Northwest Coast cultures. I discuss the politics of the Museum’s relationship to the Indigenous communities whose artifacts it has amassed, and the role of Native curators in stewarding collections and shaping new exhibits. We examine the theories of culture that the Museum is designed to convey, but also some of the competing theories reflected in its relationship to the Natural History Museum, with which it shares a space. Most students have never been to this kind of museum before, so my goal is to spark their curiosity and equip them to critically engage with similar venues, whether it be in New York, Chicago, or Paris.
 
@@ -40,9 +40,9 @@ None
 
 ### Requirements Satisfied
 
-- [GIR HASS-S](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/humanities-arts-and-social-sciences-hass-requirement/)
-- *21A.00 Introduction to Anthropology* can be applied toward a [Concentration, Minor, or Bachelor of Science in Anthropology](https://anthropology.mit.edu/undergraduate/requirements), but is not required.
-- *21A.00 Introduction to Anthropology* is a required course for the [Bachelor of Science in Archaeology and Materials](https://dmse.mit.edu/education/undergraduate-program/majors-minors-and-concentration/).
+- {{% resource_link "acbff5cd-2e24-43fb-bf93-93c7fce1848d" "GIR HASS-S" %}}
+- *21A.00 Introduction to Anthropology* can be applied toward a {{% resource_link "416c183f-7ca0-4119-9c0f-cc812b556939" "Concentration, Minor, or Bachelor of Science in Anthropology" %}}, but is not required.
+- *21A.00 Introduction to Anthropology* is a required course for the {{% resource_link "f964aec3-cfc8-46d3-ab7e-10de008da5b3" "Bachelor of Science in Archaeology and Materials" %}}.
 
 ### Offered
 
